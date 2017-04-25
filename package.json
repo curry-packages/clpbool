@@ -4,7 +4,7 @@
     "author": "Sebastian Fischer <sebf@informatik.uni-kiel.de",
     "maintainer": "Michael Hanus <mh@informatik.uni-kiel.de>",
     "synopsis": "A library with a constraint solver over the Booleans",
-    "category": [ "Programming", "Constraints" ],
+    "category": [ "Constraints" ],
     "dependencies": {
     },
     "exportedModules": [ "CLPB" ],
