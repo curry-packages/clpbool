@@ -1,16 +1,17 @@
 {
     "name": "clpbool",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "author": "Sebastian Fischer <sebf@informatik.uni-kiel.de",
     "maintainer": "Michael Hanus <mh@informatik.uni-kiel.de>",
     "synopsis": "A library with a constraint solver over the Booleans",
     "category": [ "Constraints" ],
     "dependencies": {
+        "base": ">= 1.1.0, < 2.0.0"
     },
     "exportedModules": [ "CLPB" ],
     "description": "A library with a Boolean Constraint Solver based on BDDs.",
     "compilerCompatibility": {
-        "pakcs": ">= 2.0.0"
+        "pakcs": ">= 2.2.1, < 3.0.0"
     },
     "license": "BSD-3-Clause",
     "licenseFile": "LICENSE",
